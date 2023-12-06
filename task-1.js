@@ -1,4 +1,4 @@
-
+'use strict';
 function makeTransaction (quantity, pricePerDroid ) {
     const totalPrice= quantity*pricePerDroid;
     // const result = `You ordered ${quantity} droids worth ${totalPrice} credits!`; Спочатку зробив з цією змінною, але подумав
